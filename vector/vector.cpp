@@ -5,7 +5,6 @@ using namespace std;
 int main()
 {
     vector<int> vec;
-
     vec.push_back(20);
     vec.push_back(200);
     vec.push_back(230020);
